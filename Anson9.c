@@ -16,7 +16,7 @@ temp1 /=10;
 }
 while(temp2 !=0)
 {
-remainder=temp2 % 10;
+remainder=temp2 %10;
 result += pow(remainder,n);
 temp /=10;
 }
