@@ -8,8 +8,8 @@ void main()
   l=strlen(a);
   for(i=0;i<=l;i++)
   {
-    if(a[i]=='.')
-    count++;
+   if(a[i]=='.')
+   count++;
   }
   printf("\nthe no.of lines in the para :%d",count+1);
 }
