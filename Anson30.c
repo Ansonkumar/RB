@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
 int g[10],i,gre,l;
 printf("\n enter the limit");
