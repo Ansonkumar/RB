@@ -31,4 +31,4 @@ printf("\ny=%d",y);
 return 0;
 
 }
-© 2018 GitHub, Inc.
+
