@@ -9,11 +9,11 @@
 	sum=n1+n2;
 	if(sum%2==0)
 	{
-		printf("\neven");
+	printf("\neven");
 	}
 	else
 	{
-		printf("\nodd");
+	printf("\nodd");
 	}
 	return 0;
 }
