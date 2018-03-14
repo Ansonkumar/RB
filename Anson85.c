@@ -2,7 +2,7 @@
 int main(void) 
 {
 float p,r,result;
-int si,n;
+int s,i,n;
 scanf("%f %d %f",&p,&n,&r);
 result=((p*n*r)/100);
 si=floor(result);
